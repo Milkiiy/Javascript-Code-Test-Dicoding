@@ -1,0 +1,20 @@
+{
+  "name": "javascript-code-test-dicoding",
+  "version": "1.0.0",
+  "description": "Quiz JS Dicoding",
+  "main": "kuis_koding_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test8": "node kuis_koding_8.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milkiiy/Javascript-Code-Test-Dicoding.git"
+  },
+  "author": "Rizky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milkiiy/Javascript-Code-Test-Dicoding/issues"
+  },
+  "homepage": "https://github.com/Milkiiy/Javascript-Code-Test-Dicoding#readme"
+}
