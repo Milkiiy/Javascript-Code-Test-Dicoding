@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Quiz JS Dicoding",
   "main": "kuis_koding_1.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "test8": "node kuis_koding_8.js"
