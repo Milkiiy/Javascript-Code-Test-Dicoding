@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Quiz JS Dicoding",
   "main": "kuis_koding_1.js",
-  "type": ".cjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "test8": "node kuis_koding_8.js"
+    "test8": "node kuis_koding_8.js",
+    "testJest": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/Milkiiy/Javascript-Code-Test-Dicoding/issues"
   },
-  "homepage": "https://github.com/Milkiiy/Javascript-Code-Test-Dicoding#readme"
+  "homepage": "https://github.com/Milkiiy/Javascript-Code-Test-Dicoding#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
